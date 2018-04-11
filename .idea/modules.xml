@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Decompress/Decompress.iml" filepath="$PROJECT_DIR$/Decompress/Decompress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindLakeVolume/FindLakeVolume.iml" filepath="$PROJECT_DIR$/FindLakeVolume/FindLakeVolume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindLongestWordInString/FindLongestWordInString.iml" filepath="$PROJECT_DIR$/FindLongestWordInString/FindLongestWordInString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hangman/Hangman.iml" filepath="$PROJECT_DIR$/Hangman/Hangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minesweeper/Minesweeper.iml" filepath="$PROJECT_DIR$/Minesweeper/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+    </modules>
+  </component>
+</project>
